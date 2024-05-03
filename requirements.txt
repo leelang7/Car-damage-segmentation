@@ -1,0 +1,8 @@
+#python 3.11
+pandas
+opencv-python
+torch
+segmentation-models-pytorch
+albumentations
+pytz
+segmentation_models_pytorch
