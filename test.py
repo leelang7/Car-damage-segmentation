@@ -217,7 +217,7 @@ for i, price in enumerate(price_table):
 
     print(f'{labels[i]}:\t영역: {area}\t가격:{area * price}원')
 
-print(f'빵형 고객님, 총 수리비는 {total}원 입니다!')
+print(f'고객님, 총 수리비는 {total}원 입니다!')
 
 
 # In[ ]:
